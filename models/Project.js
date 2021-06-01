@@ -18,7 +18,7 @@ Project.init(
     blog: {
       type: DataTypes.STRING,
     },
-   
+  
     user_id: {
       type: DataTypes.INTEGER,
       references: {
