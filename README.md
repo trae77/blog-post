@@ -1,5 +1,5 @@
 # blog-post
-
+ video of usage https://drive.google.com/file/d/1EqcZc6XXEjXRSyeV-_2isOdbE9OPEJTf/view
   ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Table of contents
@@ -43,6 +43,6 @@
    You can find me on GitHub at [trae77](https://github.com/trae77)
 
   Email me if you run into any questions at soccerreferee7@gmail.com
-
+   video of usage https://drive.google.com/file/d/1EqcZc6XXEjXRSyeV-_2isOdbE9OPEJTf/view
 
  
